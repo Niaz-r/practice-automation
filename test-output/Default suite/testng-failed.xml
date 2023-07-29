@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.bd.automation.LocatorExample">
+      <class name="com.bd.automation.webcommands">
         <methods>
           <include name="start"/>
           <include name="close"/>
-          <include name="locatorexample"/>
+          <include name="getwebcommands"/>
         </methods>
-      </class> <!-- com.bd.automation.LocatorExample -->
+      </class> <!-- com.bd.automation.webcommands -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

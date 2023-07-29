@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-29T03:07:32 BDT" name="Default suite" finished-at="2023-07-29T03:07:47 BDT" duration-ms="15386">
+  <suite started-at="2023-07-29T22:44:21 BDT" name="Default suite" finished-at="2023-07-29T22:44:40 BDT" duration-ms="18960">
     <groups>
     </groups>
-    <test started-at="2023-07-29T03:07:32 BDT" name="Default test" finished-at="2023-07-29T03:07:47 BDT" duration-ms="15386">
-      <class name="com.bd.automation.webcommands">
-        <test-method is-config="true" signature="start()[pri:0, instance:com.bd.automation.webcommands@53fb3dab]" started-at="2023-07-29T03:07:29 BDT" name="start" finished-at="2023-07-29T03:07:32 BDT" duration-ms="3379" status="PASS">
+    <test started-at="2023-07-29T22:44:21 BDT" name="Default test" finished-at="2023-07-29T22:44:40 BDT" duration-ms="18960">
+      <class name="com.bd.automation.navigationexample">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.bd.automation.navigationexample@53fb3dab]" started-at="2023-07-29T22:44:17 BDT" name="start" finished-at="2023-07-29T22:44:21 BDT" duration-ms="3195" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method signature="getwebcommands()[pri:0, instance:com.bd.automation.webcommands@53fb3dab]" started-at="2023-07-29T03:07:32 BDT" name="getwebcommands" finished-at="2023-07-29T03:07:47 BDT" duration-ms="15320" status="PASS">
+        <test-method signature="nevigation()[pri:0, instance:com.bd.automation.navigationexample@53fb3dab]" started-at="2023-07-29T22:44:21 BDT" name="nevigation" finished-at="2023-07-29T22:44:40 BDT" duration-ms="18889" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getwebcommands -->
-        <test-method is-config="true" signature="close()[pri:0, instance:com.bd.automation.webcommands@53fb3dab]" started-at="2023-07-29T03:07:47 BDT" name="close" finished-at="2023-07-29T03:07:48 BDT" duration-ms="269" status="PASS">
+        </test-method> <!-- nevigation -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.bd.automation.navigationexample@53fb3dab]" started-at="2023-07-29T22:44:40 BDT" name="close" finished-at="2023-07-29T22:44:40 BDT" duration-ms="376" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-      </class> <!-- com.bd.automation.webcommands -->
+      </class> <!-- com.bd.automation.navigationexample -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
