@@ -16,7 +16,7 @@ public class webcommands extends BaseDriver {
 		
 	//send keys
 	
-	WebElement firstname = driver.findElement(By.xpath("//input[@id='firstName']"));
+	   WebElement firstname = driver.findElement(By.xpath("//input[@id='firstName']"));
 		firstname.sendKeys("niaz");
 	//	Thread.sleep(3000);
 	
