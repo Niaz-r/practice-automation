@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-29T22:44:21 BDT" name="Default suite" finished-at="2023-07-29T22:44:40 BDT" duration-ms="18960">
+  <suite started-at="2023-08-04T20:25:45 BDT" name="Default suite" finished-at="2023-08-04T20:25:53 BDT" duration-ms="7769">
     <groups>
     </groups>
-    <test started-at="2023-07-29T22:44:21 BDT" name="Default test" finished-at="2023-07-29T22:44:40 BDT" duration-ms="18960">
-      <class name="com.bd.automation.navigationexample">
-        <test-method is-config="true" signature="start()[pri:0, instance:com.bd.automation.navigationexample@53fb3dab]" started-at="2023-07-29T22:44:17 BDT" name="start" finished-at="2023-07-29T22:44:21 BDT" duration-ms="3195" status="PASS">
+    <test started-at="2023-08-04T20:25:45 BDT" name="Default test" finished-at="2023-08-04T20:25:53 BDT" duration-ms="7769">
+      <class name="com.bd.automation.Wait">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.bd.automation.Wait@53fb3dab]" started-at="2023-08-04T20:25:42 BDT" name="start" finished-at="2023-08-04T20:25:45 BDT" duration-ms="3064" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method signature="nevigation()[pri:0, instance:com.bd.automation.navigationexample@53fb3dab]" started-at="2023-07-29T22:44:21 BDT" name="nevigation" finished-at="2023-07-29T22:44:40 BDT" duration-ms="18889" status="PASS">
+        <test-method signature="waitExample()[pri:0, instance:com.bd.automation.Wait@53fb3dab]" started-at="2023-08-04T20:25:45 BDT" name="waitExample" finished-at="2023-08-04T20:25:53 BDT" duration-ms="7698" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- nevigation -->
-        <test-method is-config="true" signature="close()[pri:0, instance:com.bd.automation.navigationexample@53fb3dab]" started-at="2023-07-29T22:44:40 BDT" name="close" finished-at="2023-07-29T22:44:40 BDT" duration-ms="376" status="PASS">
+        </test-method> <!-- waitExample -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.bd.automation.Wait@53fb3dab]" started-at="2023-08-04T20:25:53 BDT" name="close" finished-at="2023-08-04T20:25:53 BDT" duration-ms="243" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-      </class> <!-- com.bd.automation.navigationexample -->
+      </class> <!-- com.bd.automation.Wait -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
